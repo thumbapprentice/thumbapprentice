@@ -6,7 +6,7 @@
 
 <p align="center"><h3 align="center"><b>LUCIO</b> ᵒʳ <i>MYLER</i>. <img src="https://i.ibb.co/tpBSjF6m/80869628.gif" border="0"></h3>  </p>
 
-<p align="center"><img src="https://i.ibb.co/hFZPW2d6/imlisteningtoglassbeach.png" alt="imlisteningtoglassbeach" border="0" width="300"></p>
+<p align="center"><img src="https://i.ibb.co/hFZPW2d6/imlisteningtoglassbeach.png" alt="imlisteningtoglassbeach" border="0" width="325"></p>
 
 <p align="center">
     <a href="https://lucio.atabook.org/"><b>atabook</b></a>&nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;
@@ -26,15 +26,7 @@
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/003e2da9.gif?v=20a350bf" border="0" width="525"></p>
 
 <details align="center">
-  <summary align="center">am i listening to spotify?</summary>
-  <p align="center"><h3>lets take a look 👀</p></h3>
-  <p align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=b14e4e&bar_color_cover=true">
-  </a></p>
-</details>
-
-<details align="center">
-<summary align="center">.png & .jpegs i find funny</summary>
+<summary align="center">images i find funny</summary>
 <img src="https://i.ibb.co/1f7CqvcL/IMG-9226.jpg" border="0" width="200">
 <img src="https://i.ibb.co/q31FBrYy/IMG-9224.jpg" border="0" width="250">
 <img src="https://i.ibb.co/TBXDLLh3/IMG-9225.jpg" border="0" width="250">
@@ -42,3 +34,16 @@
 <img src="https://i.ibb.co/DjPQ11Z/IMG-9206.jpg" border="0" width="250">
 <img src="https://i.ibb.co/qLHfz3rW/Screenshot-2026-03-31-5-01-17-PM.png" border="0" width="300">
 </details>
+
+<details align="center">
+  <summary align="center">am i currently listening to spotify?</summary>
+  <p align="center"><h3>lets take a look 👀</p></h3>
+  <p align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=b14e4e&bar_color_cover=true">
+  </a></p>
+</details>
+
+<p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/003e2da9.gif?v=20a350bf" border="0" width="525"></p>
+
+<p align="center"><img align="center" src="https://i.ibb.co/xSP83sBS/2026-04-03-0z2-Kleki.png" alt="me nd my bf r literally renluci okay? Iwish heplayed ponytown tho.." border="0" width="250"></p>
+<p align="center"><sub align="center">go sign my ata if you havent ^-^</sub></p>
