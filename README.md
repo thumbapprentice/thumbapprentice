@@ -43,6 +43,7 @@
 <img src="https://i.ibb.co/dJP1tf65/IMG-9229.jpg" border="0" width="225">
 </details>
 
+<p align="center"><h3>song i am currently Jamming to on spotify:</h3></p>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
