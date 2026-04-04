@@ -43,13 +43,11 @@
 <img src="https://i.ibb.co/dJP1tf65/IMG-9229.jpg" border="0" width="225">
 </details>
 
-<details align="center">
-  <summary align="center">am i currently listening to spotify?</summary>
-  <p align="center"><h3>lets take a look 👀</p></h3>
-  <p align="center"><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=b14e4e&bar_color_cover=true">
-  </a></p>
-</details>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
 
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/003e2da9.gif?v=20a350bf" border="0" width="525"></p>
 
