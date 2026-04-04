@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">hello, world! my name is <b>lucio</b>. i am a fairly new ponytown player who is <b><i>still</i></b> learning how to use the editor. .</p>
-<p align="center">i've been a github user for a while <i>(since 2022)</i>, and seeing that many people link their atabooks/strawpages to it, i decided to use it for that reason too, therefore privating all my old repositories.</p>
+<p align="center">i've been a github user for a while <i>(since 2022)</i>, and seeing that many people link their atabooks/strawpages to it, i decided to use it for that reason too, so i privated all my old repositories.</p>
 
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/003e2da9.gif?v=20a350bf" border="0" width="525"></p>
 
 <p align="center">obviously, my biggest interest at the moment is <b>project moon (limbus, ruina <sub><i>(currently playing thru it)</sub> & dd!)</i></b>. some other games i play are PEAK, wordbomb, blue prince, & block blast <i>(currently on a 1.3m score run as of april 3rd)</i></p>
 <p align="center">i am also a huge fan of <b>the pitt</b>, which is a medical drama show on hbo max. dennis my beloved <3</p>
-<p align="center"><sub>i genuinely want more friends who watch this show, PLEASE reveal yourselves.</sub></p>
+<p align="center"><sub>i desperately need friends who watch this show, PLEASE.</sub></p>
 
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/003e2da9.gif?v=20a350bf" border="0" width="525"></p>
 
@@ -34,6 +34,11 @@
 </details>
 
 <details align="center">
-<summary align="center">pngs i find funny</summary>
-WIP!!!!!!!! GRRRRRRRR
+<summary align="center">.png & .jpegs i find funny</summary>
+<img src="https://i.ibb.co/1f7CqvcL/IMG-9226.jpg" border="0" width="200">
+<img src="https://i.ibb.co/q31FBrYy/IMG-9224.jpg" border="0" width="250">
+<img src="https://i.ibb.co/TBXDLLh3/IMG-9225.jpg" border="0" width="250">
+<img src="https://i.ibb.co/7xsF5T5W/IMG-9205.jpg" border="0" width="250">
+<img src="https://i.ibb.co/DjPQ11Z/IMG-9206.jpg" border="0" width="250">
+<img src="https://i.ibb.co/qLHfz3rW/Screenshot-2026-03-31-5-01-17-PM.png" border="0" width="300">
 </details>
