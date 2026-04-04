@@ -26,7 +26,7 @@
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/003e2da9.gif?v=20a350bf" border="0" width="525"></p>
 
 <details align="center">
-<summary align="center">images i find funny</summary>
+<summary align="center">image spam</summary>
 <img src="https://i.ibb.co/1f7CqvcL/IMG-9226.jpg" border="0" width="200">
 <img src="https://i.ibb.co/q31FBrYy/IMG-9224.jpg" border="0" width="250">
 <img src="https://i.ibb.co/TBXDLLh3/IMG-9225.jpg" border="0" width="250">
