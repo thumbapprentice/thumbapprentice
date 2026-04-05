@@ -22,6 +22,7 @@
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery143/602331d9.gif?v=20a350bf" width="15.5">&nbsp; obviously, my biggest interest at the moment is <b>project moon (limbus, ruina <sub><i>(currently playing thru it)</sub> & dd!)</i></b>. some other games i play are PEAK, wordbomb, blue prince, & block blast <i>(im on a 1.5m+ score run as of april 4th) &nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery02/d7f57454.gif?v=20a350bf" width="15.5"></i></p>
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery263/e359d252.gif?v=20a350bf" width="15.5">&nbsp; i am also a huge fan of <b>the pitt</b>, which is a medical drama show on hbo max. dennis my beloved <3 &nbsp;<img src="https://gifcity.carrd.co/assets/images/gallery263/8fa25cc2.gif?v=20a350bf" width="15"></p>
 <p align="center"><sub>i desperately need friends who watch it.</sub></p>
+<p align="center"><sub>add me on limbus btw: V216423330</sub></p>
 
 <p align="center">dni if you're under 13 or a weirdo (view my <a href="https://myler.straw.page/">strawpage</a> for a full list) <i>also forsaken/rblx asym fandoms are on thin ice</i></p>
 
