@@ -24,7 +24,7 @@
 <p align="center"><sub>i desperately need friends who watch it.</sub></p>
 <p align="center"><sub>add me on limbus btw: V216423330</sub></p>
 
-<p align="center">dni if you're under 13 or a weirdo (view my <a href="https://myler.straw.page/">strawpage</a> for a full list) <i>also forsaken/rblx asym fandoms are on thin ice</i></p>
+<p align="center">dni if you're under 13 or a weirdo (view my <a href="https://myler.straw.page/">strawpage</a> for a full list) <i>also dandys world, forsaken OR any rblx asym fandoms are on thin ice</i></p>
 
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/003e2da9.gif?v=20a350bf" border="0" width="525"></p>
 
