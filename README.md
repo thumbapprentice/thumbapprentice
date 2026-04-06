@@ -51,6 +51,7 @@
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
   </a>
+    !! if there is no bar visualizer, it is displaying my most recently played song
 </p>
 
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/003e2da9.gif?v=20a350bf" border="0" width="525"></p>
