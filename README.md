@@ -22,7 +22,7 @@
   </a>
 </p>
 <p align="center">
-    <sub>click to see my lastfm. it shows my most recently played songs.</sub>
+    <sub>click above to see my lastfm. it shows my most recently played songs.</sub>
 </p>
 
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/115a052a.gif" border="0" width="525"></p>
