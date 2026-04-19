@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">hello! my name is <b><ins>lucio</ins></b>. you may also call me <i><s>myl</s>er</i>. i don't like being referred to as anything else, unless we're close friends.</p>
-<p align="center">i'm transmasculine and bisexual. if you cant tell, i'm also a lucio fictionkin. i can be both friendly and closed off at times. i like chatting, <i><ins>though i am VERY awkward and constantly anxious.</ins></i>
+<p align="center">i'm transmasculine and bisexual. if you cant tell, i'm also a lucio fictionkin. i can be both friendly and closed off at times. i like chatting, <i><ins>though i am VERY emotional and constantly anxious.</ins></i>
 <p align="center">my biggest fixation is currently <b>project moon</b> (limbus & ruina), but my other interests include the pitt, blue prince, PEAK, geometry dash, osu, and more.</p>
 <p align="center">please do not interact if you're under 13. read my boundaries <a href="https://rentry.co/lucisora">here</a>.</p>
 <p align="center"><sub>limbus: V216423330 ノ gd: limbuscompanyyy</sub></p>
