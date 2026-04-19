@@ -9,20 +9,20 @@
 <p align="center"><img src="https://i.ibb.co/S4QFcZVM/picmix-com-13538918-1.gif" border="0" width="325"></p>
 
 <p align="center">
-    <a href="https://lucio.atabook.org/"><b>atabook</b></a>&nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;
-    <a href="https://rentry.co/lucios/">rentry</a>&nbsp;&nbsp;&nbsp; / &nbsp;&nbsp;&nbsp;
+    <a href="https://lucio.atabook.org/"><b>atabook</b></a>&nbsp;&nbsp;&nbsp; ノ &nbsp;
+    <a href="https://rentry.co/lucios/">rentry</a>&nbsp;&nbsp;&nbsp; ノ &nbsp;
     <a href="https://myler.straw.page/">straw</a>
 </p>
 
 <p align="center"><h3 align="center">reworking</h3></p>
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&redirect=true">
+  <a href="https://www.last.fm/user/myler249">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
 <p align="center">
-    <sub>!! if there is no bar visualizer, it is displaying my most recently played song</sub>
+    <sub>click to see my lastfm. it shows my most recently played songs.</sub>
 </p>
 
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/115a052a.gif" border="0" width="525"></p>
