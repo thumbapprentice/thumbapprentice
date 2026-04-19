@@ -28,5 +28,13 @@
 <p align="center">
     <sub>click above to see my lastfm. it shows my most recently played songs.</sub>
 </p>
+<details align="center">
+  <summary>cool songs i like</summary>
+  <p><a href="https://youtu.be/meyOQlKjaaQ">01</a>
+<p><a href="https://www.youtube.com/watch?v=SEOrx3aZCxU">02</a></p>
+<p><a href="https://www.youtube.com/watch?v=T4t1vYNY0mA">03</a></p>
+<p><a href="ttps://www.youtube.com/watch?v=jI2yHN4I_WA">04</a></p>
+<p><a href="https://www.youtube.com/watch?v=J8N3mHtpDAI">05</a></p>
+</details>
 
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/115a052a.gif" border="0" width="525"></p>
