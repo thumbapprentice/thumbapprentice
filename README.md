@@ -1,8 +1,8 @@
-<p align="center">
-<img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fthumbapprentice%2Fthumbapprentice&style=plastic&label=%F0%9F%93%95%20lucio.&color=red">
-</p>
-
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/f9e87726.gif" border="0" width="525"></p>
+
+<p align="center">
+<img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fthumbapprentice%2Fthumbapprentice&style=plastic&label=%F0%9F%93%95%20&color=red">
+</p>
 
 <p align="center"><h3 align="center"><img src="https://i.ibb.co/tpBSjF6m/80869628.gif"> <b>LUCIO</b>. <img src="https://gifcity.carrd.co/assets/images/gallery273/20465417.gif"></h3>  </p>
 
@@ -16,8 +16,6 @@
 
 <p align="center"><h3 align="center">reworking</h3></p>
 
-<p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/115a052a.gif" border="0" width="525"></p>
-
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
@@ -26,3 +24,5 @@
 <p align="center">
     <sub>!! if there is no bar visualizer, it is displaying my most recently played song</sub>
 </p>
+
+<p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/115a052a.gif" border="0" width="525"></p>
