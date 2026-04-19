@@ -6,7 +6,7 @@
 
 <p align="center"><h3 align="center"><img src="https://i.ibb.co/tpBSjF6m/80869628.gif"> <b>LUCIO</b>. <img src="https://gifcity.carrd.co/assets/images/gallery273/20465417.gif"></h3>  </p>
 
-<p align="center"><img src="https://i.ibb.co/S4QFcZVM/picmix-com-13538918-1.gif" border="0" width="325"></p>
+<p align="center"><img src="https://i.ibb.co/xtjq9Ds6/picmix-com-13538918-2.gif" border="0" width="325"></p>
 
 <p align="center">
     <a href="https://lucio.atabook.org/"><b>atabook</b></a>&nbsp;&nbsp;&nbsp; ノ &nbsp;
