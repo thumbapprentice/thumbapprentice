@@ -28,11 +28,5 @@
 <p align="center">
     <sub>click above to see my lastfm. it shows my most recently played songs.</sub>
 </p>
-<details align="center">
-  <summary>current music obsession</summary>
-  <p>**Mainly: <b>IT DOESN'T END HERE</b> & <b>INSURMOUNTABLE ABYSS</b>, both from Nullscape**</p>
-<p>glass beach, both plastic death + tfgba</p>
-<p>Mili, literally anything holy shit mili my beloved Ok</p>
-</details>
 
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/115a052a.gif" border="0" width="525"></p>
