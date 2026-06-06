@@ -18,8 +18,7 @@
 <p align="center">i'm transmasculine and bisexual. if you cant tell, i'm also a lucio fictionkin. i can be both friendly and closed off at times. i like chatting, <i><ins>though i am VERY emotional and constantly anxious.</ins></i>
 <p align="center">my biggest fixation is currently <b>project moon</b> (limbus & ruina), but my other interests include the pitt, blue prince, PEAK, geometry dash, osu, and more.</p>
 <p align="center">dni if under 13/weirdo, view my ext rentry for full list</p>
-<p align="center"><sub>limbus: V216423330 ノ gd: limbuscompanyyy</sub></p>
-
+<p align="center"><sub>limbus: V216423330</sub>
 <p align="center">
   <a href="https://www.last.fm/user/myler249">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
