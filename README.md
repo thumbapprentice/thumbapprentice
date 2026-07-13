@@ -9,23 +9,19 @@
 <p align="center"><img src="https://i.ibb.co/xtjq9Ds6/picmix-com-13538918-2.gif" border="0" width="325"></p>
 
 <p align="center">
-    <a href="https://lucio.atabook.org/"><b>atabook</b></a>&nbsp;&nbsp;&nbsp; ノ &nbsp;
-    <a href="https://rentry.co/lucios/">rentry</a>&nbsp;&nbsp;&nbsp; ノ &nbsp;
-    <a href="https://myler.straw.page/">straw</a>
+    <a href="https://lucio.atabook.org/"><b>atabook</b></a>
 </p>
 
-<p align="center">hello! my name is <b><ins>lucio</ins></b>. you may also call me <i><s>myl</s>er</i>. i don't like being referred to as anything else, unless we're close friends.</p>
-<p align="center">i'm transmasculine and bisexual. if you cant tell, i'm also a lucio fictionkin. i can be both friendly and closed off at times. i like chatting, <i><ins>though i am VERY emotional and constantly anxious.</ins></i>
-<p align="center">my biggest fixation is currently <b>project moon</b> (limbus & ruina), but my other interests include the pitt, blue prince, PEAK, geometry dash, osu, and more.</p>
-<p align="center">dni if under 13/weirdo, view my ext rentry for full list</p>
-<p align="center"><sub>limbus: V216423330</sub>
+<p align="center">transmasc and if you cant tell, a lucio fictionkin. im both friendly and closed off at times.</p>
+<p align="center">my biggest fixation is currently <b>project moon</b> (limbus & lcorp)</p>
+<p align="center">dni if under 13/weirdo, thats really all
 <p align="center">
   <a href="https://www.last.fm/user/myler249">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eczfuapg2tutaw7y7ci6wjyj4e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
 <p align="center">
-    <sub>click above to see my lastfm. it shows my most recently played songs.</sub>
+    <sub>click for last.fm</sub>
 </p>
 
 <p align="center"><img src="https://gifcity.carrd.co/assets/images/gallery39/115a052a.gif" border="0" width="525"></p>
